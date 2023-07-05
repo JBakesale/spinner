@@ -15,6 +15,5 @@ spinner = (arr) => {
 
 const spinArray = ["|", "/", "-", "\\", "|", "-", "/"];
 
-console.log(spinArray[3]);
 
 spinner(spinArray);
